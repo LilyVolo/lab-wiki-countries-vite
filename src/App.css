@@ -2,3 +2,13 @@
   margin: 0 auto;
   text-align: center;
 }
+.listOfCountries{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.linkBox{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
